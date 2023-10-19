@@ -121,6 +121,12 @@ http://www.webtechdbd.com
 
 ### table sytax
 
+| Name       | Email                |
+| ---------- | -------------------- |
+| Kazi Salam | Text is here         |
+| Kazi Salam | kbhsbd2012@gmail.com |
+| Kazi Salam | Text is here         |
+
 <!-- all link is here -->
 
 [websitelink]: http://www.webtechdbd.com
