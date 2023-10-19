@@ -16,7 +16,7 @@ Kazi Salam <br/> This is second line
 
 ###### Kazi Salam
 
-<p>This is Kazi Abdus Salam. My date of birth of date 30 August 1955. I am an IT professional and a Web Developer in angladesh.</p>
+<p>This is Kazi Abdus Salam. My date of birth 30 August 1955. I am an IT professional and a Web Developer in Bangladesh.</p>
 
 <br/>
 
